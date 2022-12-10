@@ -130,13 +130,7 @@ export default function Registration(props) {
               >
                 Register
               </Button>
-              <Grid container justifyContent="flex-end">
-                <Grid item>
-                  <Link href="#" variant="body2">
-                    Already registered? click to download ticket  
-                  </Link>
-                </Grid>
-              </Grid>
+              
             </Box>
           </Box>
 
