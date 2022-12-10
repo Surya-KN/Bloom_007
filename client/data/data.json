@@ -1,0 +1,84 @@
+[
+    {
+        "name":"Dev Fest",
+        "schedule":"25 Dec 2022",
+        "content":"Explore technologies connect with developers, and enage with experts. Find a developer group hosting DevFest near you.",
+        "body":"DevFests are local tech conferences hosted by  Developer Groups (GDG) around the world. Each DevFest event is crafted by its local organizers to fit the needs and interests of its local developer community. Whether it be through hands-on learning experiences, technical talks delivered in local languages by experts, or by simply meeting fellow local developers, DevFest attendees learn how to build together and innovate on developer tools.",
+        "upcoming":false,
+        "img1":"../public/img1.jpg",
+        "img2":"../public/img2.jpg",
+        "speak1":"Sameer Aggrwal",
+        "speak2":"Sharbani Roy",
+        "imgUrl": "../public/1.jpg"
+    }
+    ,
+    
+    {
+        "name":"Women in ML Symposium 2022",
+        "schedule":"30 Dec 2022",
+        "content":"Discover the latest machine learning tools, techniques, and products by google and beyond for women practitioners in this field",
+        "body":"The Women in ML Symposium is an inclusive event for people to advance in machine learning and find a community of practitioners in the field. Last year, we highlighted career growth, finding community, and we also heard from leaders in the ML space. This year, we’ll focus on coming together to learn the latest machine learning tools and techniques, get the scoop on the newest ML products from Google, and hear directly from several amazing women in ML. Our community strives to celebrate all intersections.",
+        "upcoming":false,
+        "img1":"../public/img3.jpg",
+        "img2":"../public/img4.jpg",
+        "speak1":"Daphne Koller",
+        "speak2":"Anna Patterson"
+        ,
+        "imgUrl": "../public/2.jpg"
+        
+    },
+    
+    {
+        "name":"Flutter Forward",
+        "schedule":"25 Jan 2023",
+        "content":"See how flutter is pushing UI development forward. Register early to watch the keynote, learn from tech talks and participate in live Q&A sessions.",
+        "upcoming":false,
+        "img1":"../public/img5.jpg",
+        "img2":"../public/img6.jpg",
+        "speak1":"Grant Skinner",
+        "speak2":"Zoey fan",
+        "body":"Get started in the in-demand field of user experience (UX) design with a Professional Certificate from us. Learn UX foundations and gain experience with the design process, including how to build wireframes and prototypes and conduct user research to test your designs."
+        ,
+        "imgUrl": "../public/3.jpg"
+    },
+    {
+        "name":"Azure Adventure Day",
+        "schedule":"12 Sept 2022",
+        "content":"Azure Adventure Day is an interactive team-based learning experience designed to enable attendees to test and learn new skills ",
+        "upcoming":false,
+        "body":"Azure Adventure Day is an interactive team-based learning experience designed to enable attendees to test and learn new skills in a real-world, risk-free, challenging but also fun environment. ​Participants will be working as DevOps teams in a fictitious company to complete increasingly complex challenges without any step-by-step instructions. Subject Matter Experts are available to guide the teams through this journey if needed. ​The Game Play itself will have a six-phase narrative around Deployment, Scaling, Change Management, Monitoring, Security, and Cost Optimization. Participants of Azure Adventure Day will learn how to handle real-world scenarios across these six phases hands-on and build a foundation of skills that is crucial for a variety of technical roles to drive and accelerate successful cloud projects.",
+        "img1":"../public/img7.jpg",
+        "img2":"../public/img8.jpg",
+        "speak1":"Maria Daoughlass",
+        "speak2":"Princy Scott"
+        ,
+        "imgUrl": "../public/4.jpg"
+    }
+    ,
+    
+    {
+        "name":"Microsoft Power Platform Training",
+        "schedule":"7 Sept 2022",
+        "content":"Students love to play game and learn with fun is the key to a successful course! At this moment, there is no something like AWS  "
+        ,"upcoming":false,
+        "body":"Students love to play game and learn with fun is the key to a successful course! At this moment, there is no something like AWS Game Day and Google Cloud Hero for Microsoft Azure. Those type of event is to gamify learn creating or debugging cloud in practical way and my students are all love those games!Azure Adventure is an open source HTML5 RPG game that builds on top of the latest version of Azure Automatic Grading Engine. Students need to talk to non-player character (NPC) in the game, then NPC will give some Azure tasks to students. If students can complete those tasks within time limit, then students can get some coins in the game."
+        , "img1":"../public/img9.jpg",
+        "img2":"../public/img10.jpg",
+        "speak1":"Rohan Franklin",
+        "speak2":"Santiago Gauss",
+        "imgUrl": "../public/5.jpg"
+    },
+    
+    {
+        "name":"Microsoft Virtual Briefing",
+        "schedule":"1 Sept 2022",
+        "content":"See how flutter is pushing UI development forward. Register early to watch the keynote, learn from tech talks and participate in live Q&A sessions.",
+        "upcoming":false,
+        "body":"Microsoft Virtual Briefings are free events that bring the cloud community together to connect, collaborate, and learn. You can use this unique opportunity to sit down with Microsoft leaders and subject matter experts to focus on tailored briefing topics and to get real-world answers to your questions. At this Virtual Briefing on Data & AI, you will learn how to win with Analytics: Synapse + PBI Attach. These 2hr-Briefings are delivered virtually around the world and attract peers from all industries and skill levels who want to discover how Microsoft can help them innovate quickly and deliver flexible, reliable solutions at scale. We will share insights, specific customer examples and available Microsoft resources to support your next step. Agenda:  Kick-off & Welcome | Moderator (5 min)  ",
+        "img1":"../public/img11.jpg",
+        "img2":"../public/img12.jpg",
+        "speak1":"Dennis Samuel",
+        "speak2":"Yoon Lee",
+        "imgUrl": "../public/6.jpg"
+    }
+]
